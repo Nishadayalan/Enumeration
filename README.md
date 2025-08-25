@@ -114,6 +114,22 @@ Open terminal and try execute some kali linux commands
 +-----------------------------+
 
 ```
+## site
+![WhatsApp Image 2025-08-25 at 08 46 57_94e7adda](https://github.com/user-attachments/assets/ac080579-7237-44c7-ac48-1d0adf5177a3)
+
+## filetype
+![WhatsApp Image 2025-08-25 at 08 51 34_3b402d4b](https://github.com/user-attachments/assets/5ac1d284-759e-4891-821d-deb02bb752f1)
+
+## intext
+![WhatsApp Image 2025-08-25 at 08 53 21_20ffb81c](https://github.com/user-attachments/assets/ffb1ceb6-bc29-465d-84ff-94a7fcfd4176)
+
+## inurl
+![WhatsApp Image 2025-08-25 at 08 55 34_907e84d5](https://github.com/user-attachments/assets/36756619-56fd-428f-9aea-a11ae9cb46ea)
+![WhatsApp Image 2025-08-25 at 08 56 53_09f9a0a4](https://github.com/user-attachments/assets/b7f25146-b021-4843-9caf-40ef5f249ffa)
+
+## link
+![WhatsApp Image 2025-08-25 at 08 58 30_4054614c](https://github.com/user-attachments/assets/a557ba3a-964b-41dd-ae94-b2e6a76efc81)
+
 
 ## dnsenum
 **Purpose:** A multithreaded Perl script to enumerate information from DNS servers.
@@ -125,6 +141,7 @@ dnsenum example.com
 ```
 
 ## Output:
+![WhatsApp Image 2025-08-25 at 09 06 56_7cbc97a4](https://github.com/user-attachments/assets/70c11426-1a8c-4cca-a7c4-5453ab871b38)
 
 
 
@@ -138,7 +155,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output
-  
+  ![WhatsApp Image 2025-08-25 at 09 08 29_13688d17](https://github.com/user-attachments/assets/7170c686-9f3f-41ee-aedd-0fce4dd9954c)
+
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -151,6 +169,7 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
+![WhatsApp Image 2025-08-25 at 09 20 50_4e9838a8](https://github.com/user-attachments/assets/7a9ec734-cba0-4c1c-bd9a-d4caf49e6a60)
 
 
 
